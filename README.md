@@ -15,3 +15,5 @@ We'll keep modifying this page and repository for ascertain reproducibility.
 * 2023-02-09
 We have uploaded a revised version of the IPython notebook for inference testing. The model weights can be obtained upon request.
 
+filename : PFT_prediction_model_test_build_from_LDCT_healthscreening_dataset.ipynb
+
