@@ -10,3 +10,8 @@ We'll keep modifying this page and repository for ascertain reproducibility.
 * "test" branch: Code used to get test results, and related figures and tables.
 
 
+<hr>
+
+* 2023-02-09
+We have uploaded a revised version of the IPython notebook for inference testing. The model weights can be obtained upon request.
+
