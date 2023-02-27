@@ -17,3 +17,7 @@ We have uploaded a revised version of the IPython notebook for inference testing
 
 filename : PFT_prediction_model_test_build_from_LDCT_healthscreening_dataset.ipynb
 
+<hr>
+Credits
+
+the I3D network we used were based on https://github.com/dlpbc/keras-kinetics-i3d
